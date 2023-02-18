@@ -1,0 +1,9 @@
+server:
+  ssl:
+    key-alias: praveen-test
+    key-store: classpath:praveen-test.jks
+    key-store-type: JKS
+    key-store-password: password
+    
+  
+  port: 7777
